@@ -1,0 +1,20 @@
+[[OpenFOAM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a0f19086d766207f1b65332cbba79e4186830091"
+libc = "glibc"
+os = "linux"
+
+    [[OpenFOAM.download]]
+    sha256 = "9b9505e734ed4affac602c21c237e9e6c66e131c016fe5a51d3d3fce42ca42e6"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_jll.jl/releases/download/OpenFOAM-v8.0.0+0/OpenFOAM.v8.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[OpenFOAM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1f69868543958c4a7733325aa82ffbf801a3663"
+libc = "glibc"
+os = "linux"
+
+    [[OpenFOAM.download]]
+    sha256 = "e02fa1e42180beaca4ac13439ad7ecf5af3bdf68c3c447ac3cf95f34d7d9b5a8"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_jll.jl/releases/download/OpenFOAM-v8.0.0+0/OpenFOAM.v8.0.0.x86_64-linux-gnu-cxx11.tar.gz"
